@@ -1,0 +1,64 @@
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\EstacionamentoAtual.exe.config
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\EstacionamentoAtual.exe
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\EstacionamentoAtual.pdb
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.Properties.Resources.resources
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.exe
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.pdb
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.Menu.resources
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.Login.resources
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.CadastrarCliente.resources
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.CadastrarManobrista.resources
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.CadastrarVaga.resources
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.EntradaVeiculo.resources
+C:\Users\julia\Desktop\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.SaidaVeiculo.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\EstacionamentoAtual.exe.config
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\EstacionamentoAtual.exe
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\EstacionamentoAtual.pdb
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.csprojAssemblyReference.cache
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.Properties.Resources.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.CadastrarManobrista.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.CadastrarVaga.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.EntradaVeiculo.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.Login.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.Menu.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.SaidaVeiculo.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.csproj.GenerateResource.cache
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.exe
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.pdb
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\Google.Protobuf.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\MySql.Data.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\Renci.SshNet.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\System.Buffers.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\System.Memory.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\Zstandard.Net.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\Google.Protobuf.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\MySql.Data.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\Renci.SshNet.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\System.Buffers.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\System.Memory.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.csproj.CopyComplete
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.CadastrarUsuario.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.PainelAdmin.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.CadastrarVagaLote.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.ConsultarCliente.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.PrecoHora.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.Picture.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\itextsharp.dll
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\bin\Debug\itextsharp.xml
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.ConsultarVagas.resources
+C:\Users\Ale\Desktop\Projeto Programação\EstacionamentoAtual\EstacionamentoAtual\obj\Debug\EstacionamentoAtual.View.Relatorios.resources
